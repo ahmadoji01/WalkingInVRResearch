@@ -7,7 +7,7 @@ It compares Google Cardboard, Oculus Rift, and Cave Automated Virtual Environmen
 Here the walking case is chosen to evaluate the best out of 3 mentioned devices 
 Details of the research background, implementation, and result can be seen on the Documentation folder
 
-This program basically provides 3 scenes (Google StreetView, 3D Objects, and 360-Camera pictures) for the evaluation
+This program basically provides 3 scenes (Google StreetView, 3D Objects, and 360-Camera pictures)
 A gyroscope sensor owned by the smartphone is used as a way to detect how fast user moves
 The data obtained from the sensor is thus sent to the processing unit 
 The processing unit for Google Cardboard is smartphone, PC for Oculus Rift, and High-Performance PC for CAVE
