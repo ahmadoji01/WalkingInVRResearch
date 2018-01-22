@@ -1,5 +1,5 @@
 # WalkingInVRResearch
-This repository contains a VR Project I have done a year ago at Kanagawa Institute of Technology (KAIT), Japan
+This repository contains a VR Project I have done on late 2017 at Kanagawa Institute of Technology (KAIT), Japan
 
 Basically the main function of the program is to help the research I performed back at that university. The research actually conveys a conclusion of which is the best Virtual Reality device out on the market. It compares Google Cardboard, Oculus Rift, and Cave Automated Virtual Environment owned by KAIT. Here the walking case is chosen to evaluate the best out of 3 mentioned devices. Details of the research background, implementation, and result can be seen on the Documentation folder
 
